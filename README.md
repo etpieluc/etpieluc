@@ -32,5 +32,4 @@ I hold multiple U.S. patents in:
 - Case studies on platform modernization and developer experience  
 
 ## 📫 Connect
-- **LinkedIn:** https://www.linkedin.com/in/edwardpieluc  
-- **Email:** etpieluc@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/edwardpieluc
